@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(69, 120, 161);
+}
+.circle{
+    width:100px;
+    height:100px;
+    background:orange;
+    display: none;
+    position: absolute;
+}
